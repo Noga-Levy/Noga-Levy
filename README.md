@@ -3,7 +3,7 @@ For now, I'm doing all kinds of wacky projects to learn the subject--let's see w
 
 ## ABOUT ME:
 
-- Was part of the Debris-Buster team, then the Debris Smasher alliance, of the 2024 Middle School Zero Robotics competition.
+- Was part of the team that won the MIT 2024 Middle School Zero Robotics competition.
 - Verifiably tired.
 - $\LaTeX$ lover.
 - Banana pizza lover.
