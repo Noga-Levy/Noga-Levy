@@ -12,7 +12,7 @@ For now, I'm doing all kinds of wacky projects to learn the subject--let's see w
 - OOP for Python
 - C++ (paused at the moment, will resume later)
 - AI whatnot
-- GitHub, now
+`LEARNING.insert(3, GitHub)`
 
 
 # See you in the debugging trenches!
